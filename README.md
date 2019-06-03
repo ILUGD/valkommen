@@ -2,11 +2,12 @@
 
 'Välkommen' is an automated attendance and feedback retrieval system.
 
-## Tech Stack (stack)
+## Tech Stack
 1. BASH
 2. Docker
 3. Python 3
 4. PostgreSQL
+5. Django REST Framework
 
 ## Working
 
@@ -73,6 +74,8 @@ front-end:
 2. The feedback will be sent to the Valkommen module with the recreated hash, and accepted IFF the hash matches any one hash out of the actual attendees. The feedback submodule only asks for the hash, and nothing else.
 
 ## Tasks
+### Docker Image
+1. Set up a basic docker image to set up working environment.
 ### Feedback
 1. social media post -> feedback form
 2. mail -> feedback form
