@@ -34,7 +34,7 @@ This timestamp will be taken from the Valkommen DB when the RSVP was actually re
 
 For the on-site attendance, we need to be sure that the attendees actually show up at the event. For this, we will make use of the QR Code sent earlier with the confirmation mail.
 
-The organizers and/or volunteers will make use of an onlie QR Code scanner that will scan the QR Code of the attendees, confirming their presence on the event in the Valkommen DB. If there are any attendees, they can be enrolled then and there with just their email IDs and full legal name.
+The organizers and/or volunteers will make use of an onlie QR Code scanner that will scan the QR Code of the attendees, confirming their presence on the event in the Valkommen DB. If there are any new attendees who didn't RSVP to the event earlier, they can be enrolled then and there with just their email IDs and full legal name. Doesn't make sense to scan a QR Code for them.
 
 ### PHASE - III : FEEDBACK
 
